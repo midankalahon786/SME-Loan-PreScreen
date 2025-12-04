@@ -1,0 +1,12 @@
+client/node_modules/
+client/dist/
+
+prescreen/target/
+prescreen/help.md
+prescreen/.mvn/wrapper/maven-wrapper.properties
+
+# Ignore IDE files
+.idea/
+.vscode/
+*.iml
+*.log
