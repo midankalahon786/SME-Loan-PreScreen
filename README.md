@@ -63,6 +63,7 @@ It solves the problem of incomplete applications by enforcing a **Pre-Screening 
 ---
 
 ##LIVE LINK: https://sme-loan-prescreen.onrender.com
+Website takes time to load as it has been hosted on Render which is a free service and stops the service due to inactivitity for a long time.
 
 ## 🔑 Demo Credentials
 The system automatically seeds demo data on the first run. Use these credentials to test the workflows:
